@@ -22,8 +22,8 @@
                         <mxPoint x="337.25000000000006" y="210" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="9" value="Метод Array.FindAll" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-                    <mxGeometry x="233" y="210" width="208" height="50" as="geometry"/>
+                <mxCell id="9" value="Метод Array.FindAll&lt;br&gt;(указываем условия)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="233" y="310" width="208" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="12" value="Формируем массив &quot;new_array&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-                    <mxGeometry x="233" y="310" width="208" height="50" as="geometry"/>
+                    <mxGeometry x="233" y="210" width="208" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
